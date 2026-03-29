@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-uri = "mongodb+srv://admin:owI6lNSYGcxhI5F3@cluster0.9icw4qv.mongodb.net/cluster0?retryWrites=true&w=majority";
+uri = "mongodh-key";
 
 
 
