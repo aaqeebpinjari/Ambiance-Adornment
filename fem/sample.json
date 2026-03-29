@@ -1,0 +1,171 @@
+[
+    {
+        "id": "thapaserialnoa",
+        "name": "Chester field",
+        "company": "apple",
+        "price": 6000000,
+        "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "https://www.homestratosphere.com/wp-content/uploads/2014/06/Leather-Chesterfield-Sofa.jpg.webp",
+        "description": "The chesterfield sofa is known for its “quilted” or “tufted” style. It’s more of a fancy couch compared to other couch designs featured in this article. Some have the tufted design on only the back and arms (see our illustrated guide to different sofa arm styles here) while others include it on the seating bench section as well.It continues to be a popular style with current sofa trends.",
+        "category": "Sofa",
+        "featured": true
+    },
+    {
+        "id": "thapaserialnob",
+        "name": "Lawson-style Sofa",
+        "company": "samsung",
+        "price": 5000000,
+        "colors": [
+            "#000",
+            "#22D3EF"
+        ],
+        "image": "https://www.homestratosphere.com/wp-content/uploads/2014/06/Lawson-style-sofa-870x580.jpg.webp",
+        "description": "This sofa style is designed for comfort. Its signature design element is a back comprised of pillows separate from the frame. The reason for this design is to create a softer, more cushioned sofa with large cushions that aren’t taut within the frame of the sofa. It continues to be a popular sofa design today. You can buy a Lawson-style sofa in many sizes, colors and materials. In addition to being uber-comfortable, you can move the large pillows around for ultimate comfort.",
+        "category": "Sofa",
+        "shipping": true
+    },
+    {
+        "id": "thapaserialnoc",
+        "name": "Mid-Century Modern",
+        "company": "dell",
+        "price": 600000,
+        "colors": [
+            "#22D3EF",
+            "#CDD0D0"
+        ],
+        "image": "https://www.homestratosphere.com/wp-content/uploads/2014/06 Midcentury-modern-sofa-design-870x351.jpg.webp",
+        "description": "From the 1930’s to the 1970’s mid-century modern furniture reigned supreme, but don’t count it down and out yet. It’s making a comeback and looks like it will continue on as it has now passed the test of time. This style of sofa is all about minimalist design and clean lines. There are many varieties. It’s designed to look good and be comfortable — they got it half right — it’s not the most comfortable furniture, but coupled with the right home design, it can look fabulous..",
+        "category": "Sofa"
+    },
+    {
+        "id": "thapaserialnod",
+        "name": "English Roll-Arm",
+        "company": "nokia",
+        "price": 125000,
+        "colors": [
+            "#000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "https://www.homestratosphere.com/wp-content/uploads/2014/06/Bridgewater-Sofa-Design-870x600.jpg.webp",
+        "description": "The English sofa (aka English roll-arm) is known for low arms in relation to a high back.Upholstery is tight throughout, yet decently cushioned all over, including the arms. While similar to the bridgewater, it’s distinguished by the tautness of the upholstery and low arms. In fact, some English rolled-arm sofas have arms so low as to appear to be armless (not the case with the version featured to here.",
+        "category": "Sofa",
+        "shipping": true
+    },
+    {
+        "id": "thapaserialnoe",
+        "name": "Accent Table",
+        "company": "apple",
+        "price": 49999,
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "image": "https://www.homestratosphere.com/wp-content/uploads/2017/11/world-market-accent-table-113017.jpg.webp",
+        "description": "An accent table is a loose term used to cover a variety of table types, including end tables, coffee tables, and console tables. Don’t be afraid to get creative! A trunk, an antique chair, or a shelf can all double as accent tables. Most are small accent tables.",
+        "category": "Table",
+        "shipping": true
+    },
+    {
+        "id": "thapaserialnof",
+        "name": "Macbook Pro",
+        "company": "apple",
+        "price": 42999,
+        "colors": [
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "https://www.homestratosphere.com/wp-content/uploads/2017/11/marble-end-side-table-113017.jpg.webp",
+        "description": "Same as aceent table",
+        "category": "Table",
+        "shipping": true
+    },
+    {
+        "id": "thapaserialnog",
+        "name": "Foyer Tables",
+        "company": "asus",
+        "price": 23999,
+        "colors": [
+            "#CDD0D0",
+            "#000"
+        ],
+        "image": "https://www.homestratosphere.com/wp-content/uploads/2017/12/foyer-table-dec1-870x870.jpg.webp",
+        "description": "Another occasional table is what we call a foyer table which is a table for the foyer. Not all foyers have such a table, but they are a nice convenience. Most butt up to a wall, but you can place round or square tables in the center of large foyers.",
+        "category": "Table",
+        "shipping": true
+    },
+    {
+        "id": "thapaserialnoh",
+        "name": "Dining Table",
+        "price": 1099999,
+        "company": "lenova",
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "image": "https://www.homestratosphere.com/wp-content/uploads/2017/12/overstock-dining-table-113017-870x870.jpg.webp",
+        "description": "Dining tables typically sit upwards of six and are usually grand affairs. They can have extra leaves to add additional seating and are usually found strictly in dining rooms, and are used irregularly.",
+        "category": "Table",
+        "featured": true,
+        "shipping": true
+    },
+    {
+        "id": "thapaserialnoi",
+        "name": "Arm Chair",
+        "price": 39999,
+        "company": "apple",
+        "colors": [
+            "#000000"
+        ],
+        "image": "https://www.homestratosphere.com/wp-content/uploads/2017/12/wayfair-armchair-120417.jpg.webp",
+        "description": "Armchairs can be wonderful accent chairs, that can provide an outlet for expressing creativity while also providing additional and comfortable seating. Armchairs seat just one person at a time, unlike their couch and loveseat cousins. They come in all sorts of styles – from contemporary, to traditional, and every style in between. When it’s time to buy an arm chair, budget to spend at least $200. Many of these seating chairs start at this price and often go up from there. Some armchairs will even cost over $1,000.",
+        "category": "Chair",
+        "shipping": true
+    },
+    {
+        "id": "thapaserialnoj",
+        "name": "Round Chair",
+        "company": "apple",
+        "price": 300099,
+        "colors": [
+            "#ff0000",
+            "#22D3EF",
+            "#000000"
+        ],
+        "image": "https://www.homestratosphere.com/wp-content/uploads/2017/12/wayfair-contemporary-round-chair-120417.jpg.webp",
+        "description": "It is a round chair we many benefits",
+        "category": "Chair"
+    },
+    {
+        "id": "thapaserialnok",
+        "name": "Day Bed",
+        "company": "rolex",
+        "price": 999999,
+        "colors": [
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "https://www.homestratosphere.com/wp-content/uploads/2014/11/daybed-chocolate.jpg.webp",
+        "description": "Daybeds are used for sleeping, lounging, reclining and seating. They’re often found in common rooms. Daybed frames can be made from wood, metal or a combination of these materials. The shape of a daybed is a cross between chaise lounge, couch and a bed",
+        "category": "Bed"
+    },
+    {
+        "id": "thapaserialnol",
+        "name": "Adjustable Weight",
+        "price": 311999,
+        "company": "samsung",
+        "colors": [
+            "#22D3EF",
+            "#ff0000",
+            "#000000"
+        ],
+        "image": "https://www.homestratosphere.com/wp-content/uploads/2017/11/adjustable-bed-dec12-870x538.png.webp",
+        "description": "If you like reading or using devices in bed, or watching TV in bed, you should perhaps seriously consider purchasing an adjustable bed.  This type of bed adjusts via a motor into various sitting or reclining positions. You can take this bed type one step further and buy one with the ability to have both sides adjust independent of each other. ",
+        "category": "Bed",
+        "featured": true
+    }
+]
